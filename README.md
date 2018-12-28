@@ -22,7 +22,7 @@ pod 'TTPush'
 
 ## Author
 
-yangxutao361@163.com, yangxutao@daojia-inc.com
+yangxutao361@163.com
 
 ## License
 
