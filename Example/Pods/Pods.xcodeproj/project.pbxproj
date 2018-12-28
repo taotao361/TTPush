@@ -81,7 +81,7 @@
 		1137F59A99018FF9B2E74DECC30AC2B6 /* TTPush-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTPush-umbrella.h"; sourceTree = "<group>"; };
 		14C3F792A49386FA8397FEF6B918C42E /* Pods-TTPush_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTPush_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		16E69AB6D8040110CF8C0E67587427F7 /* TTPush-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTPush-prefix.pch"; sourceTree = "<group>"; };
-		1743239CCCB75D1B612D9568558AEBAE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1743239CCCB75D1B612D9568558AEBAE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2B573957275A4D4307DB40ED3A6325B1 /* NSObject+TTExchange.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+TTExchange.m"; path = "TTPush/Classes/NSObject+TTExchange.m"; sourceTree = "<group>"; };
 		2C8F1ABC54375C8FAB8BED78921F61E5 /* TTPushManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TTPushManager.h; path = TTPush/Classes/TTPushManager.h; sourceTree = "<group>"; };
 		3716BA3A40FD6322177F337E487A47FC /* Pods-TTPush_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTPush_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -90,26 +90,26 @@
 		3B93C6B82A5565C454CA22EF353FE7C7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43C1E64443DB05F1BB9DFAC510E74324 /* TTPush.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TTPush.xcconfig; sourceTree = "<group>"; };
 		46F3424F77F9AA5F1A21EC3598F17B88 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		523727A46F6A21F0C8B65C975F11317B /* Pods_TTPush_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTPush_Example.framework; path = "Pods-TTPush_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		523727A46F6A21F0C8B65C975F11317B /* Pods_TTPush_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPush_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		545233A544BE3DDF31F05409EE873594 /* MJFoundation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJFoundation.m; path = MJExtension/MJFoundation.m; sourceTree = "<group>"; };
 		5743C8683707298742EA937DFA456928 /* MJExtension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MJExtension-dummy.m"; sourceTree = "<group>"; };
 		5AB6FF722B58512EAF636070DC72CC7A /* MJPropertyType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJPropertyType.m; path = MJExtension/MJPropertyType.m; sourceTree = "<group>"; };
 		63D90F731A3053DB7591E623D48A281E /* MJProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJProperty.h; path = MJExtension/MJProperty.h; sourceTree = "<group>"; };
-		64EE1191BA924DDFE8CBB9AA15F670E1 /* TTPush.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TTPush.framework; path = TTPush.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EE1191BA924DDFE8CBB9AA15F670E1 /* TTPush.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTPush.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		678B9B02908E4BCF98A15C3747035A62 /* TTPush-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TTPush-dummy.m"; sourceTree = "<group>"; };
 		6AF08F656664C6FC2C2F64018CC89C32 /* Pods-TTPush_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTPush_Example-umbrella.h"; sourceTree = "<group>"; };
 		73D6FB284F79679CAFC96E2B374FF302 /* NSObject+MJProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+MJProperty.m"; path = "MJExtension/NSObject+MJProperty.m"; sourceTree = "<group>"; };
 		769A5124C281CC14CB5BD63AEC53CEED /* MJExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MJExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		790A2F1E41BCD00D834922AF37F8FCC7 /* MJProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJProperty.m; path = MJExtension/MJProperty.m; sourceTree = "<group>"; };
 		7E7AB5CA4B40A6CA031BA59C5109DD6C /* Pods-TTPush_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPush_Example-resources.sh"; sourceTree = "<group>"; };
-		7ECEBB4BB18BD2446354749ED6B46449 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7ECEBB4BB18BD2446354749ED6B46449 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7EF4406F575BAE57B1EC23A350AB7C5B /* NSObject+TTExchange.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+TTExchange.h"; path = "TTPush/Classes/NSObject+TTExchange.h"; sourceTree = "<group>"; };
 		814D74953564BF921B106C5A8A00E18F /* NSString+MJExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MJExtension.m"; path = "MJExtension/NSString+MJExtension.m"; sourceTree = "<group>"; };
 		85FE748EFCA3443B1B5232B5D1E034F2 /* Pods-TTPush_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTPush_Example-dummy.m"; sourceTree = "<group>"; };
 		90FDA82D8A13EFAC9BD2C5AFFCA5763A /* MJExtension-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MJExtension-umbrella.h"; sourceTree = "<group>"; };
 		9193F6B3E7DA4B89DB231331D181C4B9 /* NSObject+MJClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+MJClass.m"; path = "MJExtension/NSObject+MJClass.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		961B68B6FCB5CBD93ED924374C0DF6C9 /* TTPush.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = TTPush.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		961B68B6FCB5CBD93ED924374C0DF6C9 /* TTPush.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = TTPush.podspec; sourceTree = "<group>"; };
 		9E141A5FDEAB0630489B7B665A5E7921 /* Pods-TTPush_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPush_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		A2C37037F752F0222CE3D815388A98E9 /* Pods-TTPush_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTPush_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A3D55214F416BD8A17B4A383E4849E6E /* Pods-TTPush_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPush_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -127,7 +127,7 @@
 		E2A3A3C34DED74C98A33BB0948DCBCEB /* MJFoundation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJFoundation.h; path = MJExtension/MJFoundation.h; sourceTree = "<group>"; };
 		E8EC864EB5C6D9AE34F681480D3194B1 /* Pods-TTPush_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTPush_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E99E42FC8F3F908790F0C5F5DC21D90E /* TTPush.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TTPush.modulemap; sourceTree = "<group>"; };
-		EAB1F3C28A8EA827DDA81DB49CC187A5 /* Pods_TTPush_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTPush_Tests.framework; path = "Pods-TTPush_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAB1F3C28A8EA827DDA81DB49CC187A5 /* Pods_TTPush_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPush_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB574A30430349912B9AA0E12991FB76 /* MJPropertyKey.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJPropertyKey.m; path = MJExtension/MJPropertyKey.m; sourceTree = "<group>"; };
 		EB920D4B5F81AB389546C7905429507C /* Pods-TTPush_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPush_Example-frameworks.sh"; sourceTree = "<group>"; };
 		EDDBBBC1617D4C1B338F6208FFEC7DC4 /* NSObject+MJProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+MJProperty.h"; path = "MJExtension/NSObject+MJProperty.h"; sourceTree = "<group>"; };
@@ -137,7 +137,7 @@
 		F21D3B6AB8A0B971DE7A16782E2E38A0 /* MJExtensionConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJExtensionConst.h; path = MJExtension/MJExtensionConst.h; sourceTree = "<group>"; };
 		F803A559685582189B9EA6007E987E6E /* Pods-TTPush_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTPush_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F963DB13D5C7B7E1F81ACAFD0C77522F /* MJExtension.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJExtension.xcconfig; sourceTree = "<group>"; };
-		FD929E5A4A2E9FF87FDBEEEDA8313CAE /* MJExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MJExtension.framework; path = MJExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD929E5A4A2E9FF87FDBEEEDA8313CAE /* MJExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MJExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE8C5A97228B856DB0B0399B4435F3AC /* Pods-TTPush_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTPush_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -357,7 +357,6 @@
 				814D74953564BF921B106C5A8A00E18F /* NSString+MJExtension.m */,
 				289181CBE7370411BB36EB73CA0FF60C /* Support Files */,
 			);
-			name = MJExtension;
 			path = MJExtension;
 			sourceTree = "<group>";
 		};
