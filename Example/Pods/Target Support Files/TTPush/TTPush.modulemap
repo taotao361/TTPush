@@ -1,0 +1,6 @@
+framework module TTPush {
+  umbrella header "TTPush-umbrella.h"
+
+  export *
+  module * { export * }
+}

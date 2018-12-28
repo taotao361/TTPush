@@ -1,0 +1,19 @@
+PODS:
+  - MJExtension (3.0.15.1)
+  - TTPush (0.1.0):
+    - MJExtension
+
+DEPENDENCIES:
+  - TTPush (from `../`)
+
+EXTERNAL SOURCES:
+  TTPush:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  TTPush: 57443a196cd265aa3c970e053807141a35481a94
+
+PODFILE CHECKSUM: 493c40986d0a81d9be52751733496efabf4462c5
+
+COCOAPODS: 1.4.0

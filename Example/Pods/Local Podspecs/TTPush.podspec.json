@@ -1,0 +1,27 @@
+{
+  "name": "TTPush",
+  "version": "0.1.0",
+  "summary": "A short description of TTPush.",
+  "description": "远程推送封装",
+  "homepage": "https://github.com/yangxutao361@163.com/TTPush",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangxutao361@163.com": "yangxutao361@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yangxutao361@163.com/TTPush.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TTPush/Classes/**/*",
+  "dependencies": {
+    "MJExtension": [
+
+    ]
+  }
+}
